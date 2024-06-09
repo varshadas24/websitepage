@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "/carbonemission",
+    "/casestudy",
+    "/client",
+    "/consumerlogistic",
+    "/contact",
+    "/energy",
+    "/home",
+    "/petrochemical",
+    "/service",
+    "/sports"
+  ]
+}
